@@ -75,7 +75,7 @@
                         <p>Fill in the data below.</p>
 
 
-                        <form action="" class="requires-validation" novalidate>
+                        <form method="" action="" class="requires-validation" novalidate>
                           
                             <div class="form-group">
                               <label for="formGroupExampleInput">Book Name</label>
