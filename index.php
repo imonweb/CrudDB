@@ -75,7 +75,7 @@
                         <p>Fill in the data below.</p>
 
 
-                        <form method="" action="" class="requires-validation" novalidate>
+                        <form method="post" action="action.php" class="requires-validation" novalidate>
                           
                             <div class="form-group">
                               <label for="formGroupExampleInput">Book Name</label>
@@ -138,7 +138,7 @@
                   
 
                             <div class="form-button mt-3">
-                                <button id="submit" type="submit" class="btn btn-primary">ADD RECORD</button>
+                                <button id="submit" type="submit" name="submit" class="btn btn-primary">ADD RECORD</button>
                             </div>
                         </form>
                     </div>
